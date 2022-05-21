@@ -11,11 +11,13 @@ Sample Output:
 
 Explanation: There are 4 words in the given input, with a total of 14 letters, so the average length will be: 14/4 = 3.5"""
 
+#Solution:
+
 n = input()    
-       # case 1: "this is some text" 
+                         # case 1: "this is some text" 
 b = n.split() 
-       # ['this', 'is', 'some', 'text']
+                         # ['this', 'is', 'some', 'text']
 c = n.replace(" ","")
-       # thisissometext
+                         # thisissometext
 print (len(c)/len(b)) 
-       # Output : 3.5
+                         # Output : 3.5
