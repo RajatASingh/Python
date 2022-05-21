@@ -1,0 +1,22 @@
+# Question:
+
+"""
+Take a string as input and output each letter of the string on a new line, repeated N times, where N is the position of the letter in the string.
+
+Sample Input:
+data
+
+Sample Output:
+d
+aa
+ttt
+aaaa 
+"""
+
+# Solution:
+
+N = input()         # data
+
+for i in range (len(N)):
+       print (N[i]* ( i + 1)
+       i = i + 1
