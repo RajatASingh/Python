@@ -13,6 +13,3 @@ Then I understood the importance of a README file. To save time for others, I ca
 
 
 # Python Practice Problems & Solutions:
-
-
-#### 01_Array.ipynb:
