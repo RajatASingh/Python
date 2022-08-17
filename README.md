@@ -2,7 +2,7 @@
 Python
 
 
-### A small summary of  how/why I started writing the README.md file:
+## A small summary of  how/why I started writing the README.md file:
 
 As a beginner, I was not aware of the advantages of a README file. So as I'm in a learning stage I used to share most of my work with my seniors or the person who is already in this domain.
 
