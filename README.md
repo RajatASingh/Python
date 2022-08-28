@@ -25,3 +25,17 @@ In this 01_Array.ipynb file I have solved problems that are relevant to list, tu
 A list is a type of data structure that is ordered and mutable! We can access its elements by index and we can remove and add elements to a list. the list is represented by square brackets [ ] and it allows duplicate values which can be any type of data.
 
 While solving problems that are relevant to the list I have used some important methods of the list. Like insert(), append(), del(), pop(),remove(),sort(), and list comprehension along with loops.
+
+#### Tuple:
+A tuple is one of four python data structures that stores collection in a single variable. It is an ordered and immutable data structure. Same as the list it provides build-in operation to work with them. In a tuple, You can store any type of data and duplicate elements in a single variable. In my '01_Array' i have not worked on tuples because most of the problems were related to lists or dictionary.
+
+#### Set:
+A set is a type of data structure that is unordered and mutual. We can not access a set's element using an index instead we use an iterator to do that. Set only takes unique values duplication is not allowed in set. however, we can make changes like adding an element and removing an element! we can perform these operations on it.
+
+I have used a set in the '01_Array' file when removing duplicate values was required.
+
+#### dictonory:
+
+the dictionary is a type of data structure that works in key-value pairs. Indexing is not supported in dictionary So to access data inside a dictionary we use either key or value. Some real example of dictionaries that you can relate to is the telephone book. In which assume the name column as key and numbers as the value of the respective key(Name).
+
+## functionality Which I Can Perform on these Data Structures:
