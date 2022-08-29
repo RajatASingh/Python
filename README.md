@@ -38,4 +38,4 @@ I have used a set in the '01_Array' file when removing duplicate values was requ
 
 the dictionary is a type of data structure that works in key-value pairs. Indexing is not supported in dictionary So to access data inside a dictionary we use either key or value. Some real example of dictionaries that you can relate to is the telephone book. In which assume the name column as key and numbers as the value of the respective key(Name).
 
-## functionality Which I Can Perform on these Data Structures:
+## functionality Which I Can Performed on these Data Structures:
