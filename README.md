@@ -34,7 +34,7 @@ A set is a type of data structure that is unordered and mutual. We can not acces
 
 I have used a set in the '01_Array' file when removing duplicate values was required.
 
-#### dictionory:
+#### dictionary:
 
 the dictionary is a type of data structure that works in key-value pairs. Indexing is not supported in dictionary So to access data inside a dictionary we use either key or value. Some real example of dictionaries that you can relate to is the telephone book. In which assume the name column as key and numbers as the value of the respective key(Name).
 
