@@ -38,4 +38,20 @@ I have used a set in the '01_Array' file when removing duplicate values was requ
 
 the dictionary is a type of data structure that works in key-value pairs. Indexing is not supported in dictionary So to access data inside a dictionary we use either key or value. Some real example of dictionaries that you can relate to is the telephone book. In which assume the name column as key and numbers as the value of the respective key(Name).
 
-## Functionality Which I Can Perform on these Data Structures:
+## Functionality Which I have Performed on these Data Structures:
+
+#### List:
+
+Below are the functions which i have used with list:
+
+* append()   # This will add the element at the last index in a list.
+* copy()    # With the help of this fuction you can copy a list.
+* count()   # This function help use to get the count of a element inside a list. How many time a element have accured in a list.
+* insert()  # This function help to to insert a element on a specifice index inside a list
+* recerse()
+* remove()
+* sort()
+* pop()
+* extend()
+* index()
+* clear()
