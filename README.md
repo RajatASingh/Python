@@ -14,7 +14,7 @@ While thinking about the above concern this came to my mind! Hey, why not do som
 
 # Summary of Python Repository:
 
-### 1. 01_Array.ipynb:
+## 1. 01_Array.ipynb:
        
 Although Python doesn't have the concept of an array. However, it does have some in-build data structures which provide similar functionality as an array.
 instead of an array python has a list, tuple, set, and dictionary. These data structures are used to store multiple items in a single variable.
@@ -44,14 +44,14 @@ the dictionary is a type of data structure that works in key-value pairs. Indexi
 
 Below are the functions which i have used with list:
 
-* append()   # This will add the element at the last index in a list.
-* copy()    # With the help of this fuction you can copy a list.
-* count()   # This function help use to get the count of a element inside a list. How many time a element have accured in a list.
-* insert()  # This function help to to insert a element on a specifice index inside a list
-* recerse()
-* remove()
-* sort()
-* pop()
-* extend()
-* index()
-* clear()
+* **append()**   # This will add the element at the last index in a list.
+* **copy()**     # With the help of this fuction you can copy a list.
+* **count()**    # This function help us to get the count of a element inside a list. How many time a element have accured in a list.
+* **insert()**   # This function help to to insert a element on a specifice index inside a list
+* **reverse()**  # The reverse() method reverses the elements of the list.
+* **remove()**   # The remove() method removes the first matching element (which is passed as an argument) from the list.
+* **sort()**     # The sort() method sorts the items of a list in ascending or descending order.
+* **pop()**      # The pop() method removes the item at the given index from the list and returns the removed item.
+* **extend()**   # The extend() method adds all the elements of an iterable (list, tuple, string etc.) to the end of the list.
+* **index()**    # The index() method returns the index of the specified element in the list.
+* **clear()**    # The clear() method removes all items from the list.
