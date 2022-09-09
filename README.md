@@ -30,7 +30,7 @@ While solving problems that are relevant to the list I have used some important 
 A tuple is one of four python data structures that stores collection in a single variable. It is an ordered and immutable data structure. Same as the list it provides build-in operation to work with them. In a tuple, You can store any type of data and duplicate elements in a single variable. In my '01_Array' i have not worked on tuples because most of the problems were related to lists or dictionary.
 
 #### Set:
-A set is a type of data structure that is unordered and mutual. We can not access a set's element using an index instead we use an iterator to do that. Set only takes unique values duplication is not allowed in set. however, we can make changes like adding an element and removing an element! we can perform these operations on it.
+A set is a type of data structure that is unordered and mutual. We can not access a set's element using an index instead we use an iterator to do that. Set only takes unique values duplication is not allowed in a set. however, we can make changes like adding an element and removing an element! we can perform these operations on it.
 
 I have used a set in the '01_Array' file when removing duplicate values was required.
 
@@ -42,16 +42,16 @@ the dictionary is a type of data structure that works in key-value pairs. Indexi
 
 #### List:
 
-Below are the functions which i have used with list:
+Below are the functions which I have used with the list:
 
 * **append()**   # This will add the element at the last index in a list.
-* **copy()**     # With the help of this fuction you can copy a list.
-* **count()**    # This function help us to get the count of a element inside a list. How many time a element have accured in a list.
+* **copy()**     # With the help of this function you can copy a list.
+* **count()**    # This function helps us to get the count of an element inside a list. How many times an element has occurred in a list.
 * **insert()**   # This function help to to insert a element on a specifice index inside a list
 * **reverse()**  # The reverse() method reverses the elements of the list.
 * **remove()**   # The remove() method removes the first matching element (which is passed as an argument) from the list.
 * **sort()**     # The sort() method sorts the items of a list in ascending or descending order.
 * **pop()**      # The pop() method removes the item at the given index from the list and returns the removed item.
-* **extend()**   # The extend() method adds all the elements of an iterable (list, tuple, string etc.) to the end of the list.
+* **extend()**   # The extend() method adds all the elements of an iterable (list, tuple, string, etc.) to the end of the list.
 * **index()**    # The index() method returns the index of the specified element in the list.
 * **clear()**    # The clear() method removes all items from the list.
